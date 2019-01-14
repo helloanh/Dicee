@@ -1,4 +1,4 @@
 # Dicee
-iOS Vegas Rolling Dice App
+iOS Vegas Rolling Dice App  
 
-
+![App](app-screenshot.png?raw=true "App Screenshot")
